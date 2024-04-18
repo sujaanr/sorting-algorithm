@@ -1,0 +1,67 @@
+EMPLOYEE WORKS_ON PROJECT
+
+3
+a
+
+Fname | Minit | Lname Ssn Bdate Address Salary | Super_ssn | Dno Essn Hours Pname Pnumber | Plocation | Dnum
+
+John B Smith 123456789 | 1965-01-09 | 731 Fondren, Houston, TX 30000 |333445555 123456789 32.5 ProductX 1 Bellaire 5
+
+Franklin Wong | 333445555 | 1955-12-08 | 638 Voss, Houston, TX 40000 |888665555 123456789 75 ProductY 2 Sugarland
+
+Alicia Zelaya | 999887777 | 1968-01-19 | 3321 Castle, Spring, TX 25000 | 987654321 666884444 40.0 ProductZ 3 Houston
+
+olols
+
+Jennifer Wallace | 987654321 | 1941-06-20 | 291 Berry, Bellaire, TX 43000 |888665555 453453453 20.0 Computerization | 10 | Stafford
+
+38000 |333445555 453453453 20.0 Reorganization 20 Houston 1
+
+Ramesh Narayan | 666884444 | 1962-09-15 | 975 Fire Oak, Humble, TX
+
+25000 |333445555 333445555 10.0 Newbenefits 30 Stafford 4
+
+Joyce
+Ahmad
+
+English | 453453453 | 1972-07-31 | 5631 Rice, Houston, TX
+Jabbar | 987987987 | 1969-03-29 | 980 Dallas, Houston, TX
+Borg 888665555 | 1937-11-10 | 450 Stone, Houston, TX
+
+El] —|sjo|- ja la |e
+
+10.0
+10.0 DEPENDENT
+
+oOo, Tis) ol ols
+
+25000 |987654321 333445555
+s8000 INULL 7 | | 333445555
+
+o
+
+=| Slusju/sziuj/si=
+Film| O|</<i>\w
+
+James
+
+333445555 20 10.0 Essn Dependent_name | Sex Bdate Relationship
+
+DEPARTMENT DEPT_LOCATIONS 999887777 30 | 30.0 333445555 | Alice 1986-04-05 | Daughter
+
+Dname Dnumber Mgr_ssn Mgr_start_date Dnumber Dlocation 999887777 10 | 10.0 333445555 | Theodore 1983-10-25 | Son
+
+Research 5 333445555 1988-05-22 1 Houston 987987987 10 | 35.0 333445555 | Joy 1958-05-03 | Spouse
+
+Administration 4 987654321 1995-01-01 Stafford 987987987 30 | 50 987654321 | Abner 1942-02-28 | Spouse
+
+Headquarters 1 888665555 1981-06-19 Bellaire 987654321 30 | 20.0 123456789 | Michael 1988-01-04 | Son
+
+Sugarland 987654321 20 15.0 123456789 Alice 1988-12-30 | Daughter
+
+wl) Sful=isSiusu
+
+Tio ;wWOl]wo
+
+Houston 888665555 20 NULL 123456789 Elizabeth 1967-05-05 | Spouse
+
